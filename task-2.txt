@@ -1,0 +1,5 @@
+stroke number 0
+stroke number 1
+stroke number 2
+stroke number 5
+stroke number 365 t
